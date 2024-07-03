@@ -6,14 +6,14 @@ Evangadi Forum is a place where Evangadi students can ask programming related qu
 The system offers registration and login functionalities via dedicated forms for registered users
 Upon successful login, users are granted privileges to pose inquiries, peruse previously asked questions, and provide answers to queries within the system
 
-The Tech Stack i used
-
-Frontend: Frameworks/Libraries React 
-CSS frameworks (Bootstrap, Tailwind, etc.)
-Backend: Languages Node.js 
-Frameworks Express
-Database: 
-SQL  MySQL
+- Technology stack:
+  -------------------
+    - The project will be based on the Node.js and Express.js framework 
+    - MySql for the database 
+    - React.js for the front end 
+    - Bootstrap for the styling
+    - AWS for hosting the App 
+    - Git for version cont
 
 
 # React + Vite
