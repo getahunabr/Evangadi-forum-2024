@@ -6,6 +6,16 @@ Evangadi Forum is a place where Evangadi students can ask programming related qu
 The system offers registration and login functionalities via dedicated forms for registered users
 Upon successful login, users are granted privileges to pose inquiries, peruse previously asked questions, and provide answers to queries within the system
 
+The Tech Stack i used
+
+Frontend: Frameworks/Libraries React 
+CSS frameworks (Bootstrap, Tailwind, etc.)
+Backend: Languages Node.js 
+Frameworks Express
+Database: 
+SQL  MySQL
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
