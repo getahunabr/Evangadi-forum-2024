@@ -13,7 +13,7 @@ Upon successful login, users are granted privileges to pose inquiries, peruse pr
     - React.js for the front end 
     - Bootstrap for the styling
     - AWS for hosting the App 
-    - Git for version cont
+    - Git for version control
 
 
 # React + Vite
