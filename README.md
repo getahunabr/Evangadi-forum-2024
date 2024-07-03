@@ -1,7 +1,6 @@
 
 Evangadi Forum Web Application
 
-
 .Evangadi Forum is a place where Evangadi students can ask programming related questions and get answers for their questions.
 
 .The system offers registration and login functionalities via dedicated forms for registered users
